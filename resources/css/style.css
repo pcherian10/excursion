@@ -46,4 +46,20 @@ body {
 
 }
 
-.
+#copyright {
+  font-family: Verdana;
+  text-align: right;
+  color: gray;
+}
+
+#campimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+#phoneicon {
+  margin-top: 35px;
+}
